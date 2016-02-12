@@ -54,7 +54,7 @@ In your own words, define what the router does in Rails.
 ## The Request-Response Cycle in Rails
 
 Starting with a client making a GET request to a particular URL, describe how
-the parts of Rails interact to produce and send a web request.
+the parts of Rails interact to produce and send a response.
 
 ```md
 <!-- your answer here -->
