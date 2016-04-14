@@ -12,9 +12,9 @@ Please note:
 
 -   Many of the readings will mention the "view" layer. We won't be covering the
     view layer in this program.
--   For now, we'll use the `rails-api` gem to create rails applications.
-    `rails-api` is set to become part of Rails 5. We will never type `rails
-    new`, instead preferring `rails-api new`.
+-   We'll use our [rails-api-template](/ga-wdi-boston/rails-api-template)
+    repository as the basis for our rails applications.
+    This template excludes the "view" layer.
 
 ## Required Readings
 
