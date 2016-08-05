@@ -12,7 +12,7 @@ Please note:
 
 -   Many of the readings will mention the "view" layer. We won't be covering the
     view layer in this program.
--   We'll use our [rails-api-template](/ga-wdi-boston/rails-api-template)
+-   We'll use our [rails-api-template](https://github.com/ga-wdi-boston/rails-api-template)
     repository as the basis for our rails applications.
     This template excludes the "view" layer.
 
