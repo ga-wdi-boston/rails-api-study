@@ -25,7 +25,7 @@ Please note:
 -   [Rails Routing from the Outside In — Ruby on Rails Guides](http://guides.rubyonrails.org/routing.html)
 -   [Action Controller Overview — Ruby on Rails Guides](http://guides.rubyonrails.org/action_controller_overview.html)
 
-## Define Model Responsiblities
+## Define Model Responsibilities
 
 In your own words, define what the responsibilities of the model layer are in
 Rails.
@@ -34,7 +34,7 @@ Rails.
 <!-- your answer here -->
 ```
 
-## Define Controller Responsiblities
+## Define Controller Responsibilities
 
 In your own words, define what the responsibilities of the controller layer are
 in Rails.
@@ -43,7 +43,7 @@ in Rails.
 <!-- your answer here -->
 ```
 
-## Define Router Responsiblities
+## Define Router Responsibilities
 
 In your own words, define what the router does in Rails.
 
