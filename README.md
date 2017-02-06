@@ -13,8 +13,8 @@ responses to incoming web requests.
 
 ## Prerequisites
 
--   [ga-wdi-boston/http-study](https://github.com/ga-wdi-boston/http-study)
--   [ga-wdi-boston/json-study](https://github.com/ga-wdi-boston/json-study)
+-   [HTTP Study](https://github.com/ga-wdi-boston/http-study)
+-   [JSON Study](https://github.com/ga-wdi-boston/json-study)
 
 ## Objectives
 
