@@ -13,8 +13,8 @@ responses to incoming web requests.
 
 ## Prerequisites
 
--   [ga-wdi-boston/http-study](https://github.com/ga-wdi-boston/http-study)
--   [ga-wdi-boston/json-study](https://github.com/ga-wdi-boston/json-study)
+-   [HTTP Study](https://github.com/ga-wdi-boston/http-study)
+-   [JSON Study](https://github.com/ga-wdi-boston/json-study)
 
 ## Objectives
 
@@ -41,5 +41,5 @@ requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or alternative
-licensing, please contact legal@ga.co.
+1.  All software code is licensed under GNU GPLv3. For commercial use or
+    alternative licensing, please contact legal@ga.co.
