@@ -18,12 +18,18 @@ Please note:
 
 ## Required Readings
 
--   [Starting Ruby on Rails: What I Wish I Knew | BetterExplained](http://betterexplained.com/articles/starting-ruby-on-rails-what-i-wish-i-knew/)
--   [Intermediate Rails: Understanding Models, Views and Controllers | BetterExplained](http://betterexplained.com/articles/intermediate-rails-understanding-models-views-and-controllers/)
--   [Getting Started with Rails — Ruby on Rails Guides](http://guides.rubyonrails.org/getting_started.html)
--   [The Rails Command Line — Ruby on Rails Guides](http://guides.rubyonrails.org/command_line.html)
--   [Rails Routing from the Outside In — Ruby on Rails Guides](http://guides.rubyonrails.org/routing.html)
--   [Action Controller Overview — Ruby on Rails Guides](http://guides.rubyonrails.org/action_controller_overview.html)
+-   Better Explained
+    -   [Starting Ruby on Rails: What I Wish I Knew](http://betterexplained.com/articles/starting-ruby-on-rails-what-i-wish-i-knew/) (sections 3 and 4)
+    -   [Intermediate Rails: Understanding Models, Views and Controllers](http://betterexplained.com/articles/intermediate-rails-understanding-models-views-and-controllers/) (up to and including "Quick Controllers")
+-   Ruby on Rails Guides
+    -   [Rails Routing from the Outside](http://guides.rubyonrails.org/routing.html) (up to and including chapter 2.6)
+    -   [Action Controller Overview](http://guides.rubyonrails.org/action_controller_overview.html) (up to and including chapter 4.5)
+    -   [The Rails Command Line](http://guides.rubyonrails.org/command_line.html) (up to and including chapter 1.4)
+
+## Additional Resources
+
+-   Ruby on Rails Guides
+    -   [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
 
 ## Define Model Responsiblities
 
