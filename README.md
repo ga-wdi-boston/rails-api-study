@@ -4,7 +4,7 @@
 
 Rails is a popular back-end framework with an MVC architecture. Traditionally,
 Rails was responsible for all parts of your web application, including building
-and send HTML responses. Sending HTML responses is the "view" layer's
+and sending HTML responses. Sending HTML responses is the "view" layer's
 responsibility.
 
 In this program, we use Rails as an API, which means we won't be using the view
